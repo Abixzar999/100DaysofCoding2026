@@ -20,10 +20,10 @@ public class days4 {
         int hargaitem = 20000;
         System.out.println("Harga Item : " + hargaitem);
 
-        long jumlahpemainonline = 1010000003000L;
-        System.out.println("Jumlah Pemain Online : " + jumlahpemainonline);
         // Long untuk menyimpan bilagan bulat yang paling besar
         // Tipe data long biasanya penulisannya diakhiri dengan huruf L
-        
+        long jumlahpemainonline = 1010000003000L;
+        System.out.println("Jumlah Pemain Online : " + jumlahpemainonline);
+
     }
 }
