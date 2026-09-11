@@ -23,6 +23,10 @@ public class days10 {
 
         System.out.println("char : " + (int) Character.MIN_VALUE + " s/d " + (int) Character.MAX_VALUE);
         // Menampilkan batas minimal dan maksimal char dalam bentuk angka
+
+        System.out.println("boolean : true / false");
+        //Boolean hanya memiliki dua nilai, yaitu true dan false
+
     }
 
 }
