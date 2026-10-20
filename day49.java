@@ -6,7 +6,7 @@ public class days49 {
         Scanner input = new Scanner(System.in);
 
         // Memasukkan Umur
-        System.out.print("Masukkan umur");
+        System.out.print("Masukkan umur : ");
         int umur = input.nextInt();
 
         // Jika umur >= 18, statusnya "Dewasa"
