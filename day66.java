@@ -9,7 +9,7 @@ public class days66 {
 
         // Perulangan dimulai dari 1 sampai jumlah garis yang dimasukkan
         for(int i = 1; i <= n;i++){
-            System.out.println("*");
+            System.out.print("*");
         }
 
         // Latihan: Membuat Pola Garis Horizontal
