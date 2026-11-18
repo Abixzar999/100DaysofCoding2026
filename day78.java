@@ -28,7 +28,7 @@ public class days78 {
             String password = input.nextLine();
         
             // Memeriksa apakah username DAN password benar
-            if (username.equalsIgnoreCase(user) && password.equalsIgnoreCase(pass)) {
+            if (username.equalsIgnoreCase(user) && password.equals(pass)) {
                 System.out.println("Login berhasil, Selamat datang");
                 
                 // Mengubah status menjadi berhasil
